@@ -14,7 +14,7 @@ public class Main {
         count.start();
 
         /* start the HelloThread instance. */
-        hello.start();
+        hello.start();///dfasdfasdfasdf
 
     } // End main method
 }
